@@ -1,0 +1,13 @@
+Program
+Var
+Const
+BeginRead
+Write
+End
+,
+.
+;
+:
+(
+)
+_VARIAVEL_
